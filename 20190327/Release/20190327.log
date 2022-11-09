@@ -1,0 +1,24 @@
+﻿  20190327.cpp
+C:\Users\dell\source\repos\20190327\20190327\20190327.cpp(53,43): warning C4305: “参数”: 从“double”到“float”截断
+  fun.cpp
+C:\Users\dell\source\repos\20190327\20190327\fun.cpp(7,35): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\dell\source\repos\20190327\20190327\fun.cpp(27,21): warning C4244: “+=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\dell\source\repos\20190327\20190327\fun.cpp(28,21): warning C4244: “+=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\dell\source\repos\20190327\20190327\fun.cpp(141,53): warning C4244: “参数”: 从“double”转换到“uchar”，可能丢失数据
+C:\Users\dell\source\repos\20190327\20190327\fun.cpp(147,62): warning C4244: “参数”: 从“double”转换到“uchar”，可能丢失数据
+C:\Users\dell\source\repos\20190327\20190327\fun.cpp(193,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\dell\source\repos\20190327\20190327\fun.cpp(343,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\dell\source\repos\20190327\20190327\fun.cpp(358,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+opencv_world401d.lib(opencv_world401d.dll) : fatal error LNK1112: 模块计算机类型“x64”与目标计算机类型“x86”冲突
